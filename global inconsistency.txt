@@ -1,0 +1,31 @@
+Q statistics to assess homogeneity / consistency
+
+                   Q df p-value
+Total           6.18 11  0.8607
+Within designs  6.13 10  0.8040
+Between designs 0.05  1  0.8186
+
+Design-specific decomposition of within-designs Q statistic
+
+               Design    Q df p-value
+   Placebo:Aldafermin 3.02  2  0.2207
+ Placebo:Efruxifermin 0.84  1  0.3589
+   Placebo:Tropifexor 0.49  1  0.4846
+ Placebo:Cenicriviroc 0.27  1  0.6064
+ Placebo:Pegozafermin 0.24  1  0.6230
+ Placebo:Pegbelfermin 0.24  1  0.6266
+ Placebo:Pioglitazone 0.92  2  0.6306
+   Placebo:Resmetirom 0.11  1  0.7351
+
+Between-designs Q statistic after detaching of single designs
+(influential designs have p-value markedly different from 0.8186)
+
+      Detached design    Q df p-value
+ Placebo:Cenicriviroc 0.00  0      --
+   Placebo:Tropifexor 0.00  0      --
+
+Q statistic to assess consistency under the assumption of
+a full design-by-treatment interaction random effects model
+
+                   Q df p-value tau.within tau2.within
+Between designs 0.05  1  0.8186          0           0
