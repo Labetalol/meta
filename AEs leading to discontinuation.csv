@@ -1,0 +1,66 @@
+﻿study,treatment,responders,sampleSize,rob,ind
+Anstee QM 2024,Cenicriviroc,38,859,1,1
+Anstee QM 2024,Placebo,16,429,1,1
+Friedman SL; Ratziu V 2018,Cenicriviroc,9,144,1,1
+Friedman SL; Ratziu V 2018,Placebo,10,144,1,1
+Harrison SA 2018,Aldafermin,6,55,1,1
+Harrison SA 2018,Placebo,0,27,1,1
+Harrison SA 2021a,Aldafermin,0,53,1,1
+Harrison SA 2021a,Placebo,1,25,1,1
+Harrison SA 2022,Aldafermin,10,127,1,1
+Harrison SA 2022,Placebo,3,43,1,1
+Harrison SA 2021b,Efruxifermin,6,58,1,1
+Harrison SA 2021b,Placebo,1,21,1,1
+Harrison SA 2023a,Efruxifermin,10,83,2,1
+Harrison SA 2023a,Placebo,0,43,2,1
+Loomba R 2023a,Pegbelfermin,4,148,1,1
+Loomba R 2023a,Placebo,3,49,1,1
+Loomba R 2023b,Pegozafermin,8,150,1,1
+Loomba R 2023b,Placebo,1,69,1,1
+Loomba R 2023c,Pegozafermin,2,63,1,1
+Loomba R 2023c,Placebo,0,18,1,1
+Sanyal A 2019,Pegbelfermin,0.5,49,1,1
+Sanyal A 2019,Placebo,0,26,1,1
+Anstee QM 2023,Tropifexor,9,50,1,1
+Anstee QM 2023,Cenicriviroc,3,48,1,1
+Anstee QM 2023,Tropifexor + Cenicriviroc,9,95,1,1
+Patel K 2020,Cilofexor,6,112,2,1
+Patel K 2020,Placebo,2,28,2,1
+Ratziu V 2023-B,Vonafexor,12,64,1,1
+Ratziu V 2023-B,Placebo,0,32,1,1
+Sanyal A 2023-A+B,Tropifexor,5,152,1,1
+Sanyal A 2023-A+B,Placebo,1,46,1,1
+Sanyal A 2023-C,Tropifexor,14,101,1,1
+Sanyal A 2023-C,Placebo,2,51,1,1
+Younossi ZM; Ratziu V 2019,Obeticholic acid,122,1311,1,1
+Younossi ZM; Ratziu V 2019,Placebo,41,657,1,1
+Armstrong MJ 2016,Liraglutide,2,26,1,1
+Armstrong MJ 2016,Placebo,1,26,1,1
+Alkhouri N 2022,Semaglutide,3,21,3,1
+Alkhouri N 2022,Semaglutide + Cilofexor,2,44,3,1
+Alkhouri N 2022,Semaglutide + Firsocostat,2,22,3,1
+Alkhouri N 2022,Semaglutide + Cilofexor + Firsocostat,1,21,3,1
+Newsome PN 2021,Semaglutide,17,239,1,1
+Newsome PN 2021,Placebo,4,80,1,1
+Francque SM 2021,Lanifibranor,7,166,1,1
+Francque SM 2021,Placebo,3,81,1,1
+Gawrieh S 2021,Saroglitazar,3,78,1,1
+Gawrieh S 2021,Placebo,0,28,1,1
+Ratziu V 2016,Elafibranor,12,182,1,1
+Ratziu V 2016,Placebo,6,92,1,1
+Aithal GP 2008,Pioglitazone,6,37,1,1
+Aithal GP 2008,Placebo,7,37,1,1
+Cusi K 2016,Pioglitazone,0,50,1,1
+Cusi K 2016,Placebo,1,51,1,1
+Harrison SA 2020,MSDC-0602K,6,298,1,1
+Harrison SA 2020,Placebo,4,94,1,1
+Harrison SA 2023b,PXL065,1,87,1,1
+Harrison SA 2023b,Placebo,1,30,1,1
+"Huang, Jee-Fu 2021",Pioglitazone,2,43,1,1
+"Huang, Jee-Fu 2021",Placebo,1,47,1,1
+Ratziu V 2008,Rosiglitazone,1,32,1,1
+Ratziu V 2008,Placebo,0,31,1,1
+Harrison SA 2023c,Resmetirom,20,822,1,1
+Harrison SA 2023c,Placebo,4,318,1,1
+Harrison SA 2024,Resmetirom,34,645,1,1
+Harrison SA 2024,Placebo,11,321,1,1
