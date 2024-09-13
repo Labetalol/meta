@@ -1,0 +1,63 @@
+﻿study,treatment,responders,sampleSize,rob,ind
+Anstee QM 2024,Cenicriviroc,686,859,1,1
+Anstee QM 2024,Placebo,318,429,1,1
+Friedman SL; Ratziu V 2018,Cenicriviroc,61,144,1,1
+Friedman SL; Ratziu V 2018,Placebo,54,144,1,1
+Harrison SA 2018,Aldafermin,41,55,1,1
+Harrison SA 2018,Placebo,19,27,1,1
+Harrison SA 2021a,Aldafermin,46,53,1,1
+Harrison SA 2021a,Placebo,22,25,1,1
+Harrison SA 2022,Aldafermin,102,127,1,1
+Harrison SA 2022,Placebo,36,43,1,1
+Harrison SA 2021b,Efruxifermin,54,58,1,1
+Harrison SA 2021b,Placebo,16,21,1,1
+Harrison SA 2023a,Efruxifermin,78,83,2,1
+Harrison SA 2023a,Placebo,38,43,2,1
+Loomba R 2023a,Pegbelfermin,134,148,1,1
+Loomba R 2023a,Placebo,42,49,1,1
+Loomba R 2023b,Pegozafermin,119,150,1,1
+Loomba R 2023b,Placebo,47,69,1,1
+Loomba R 2023c,Pegozafermin,40,63,1,1
+Loomba R 2023c,Placebo,8,18,1,1
+Sanyal A 2019,Pegbelfermin,31,49,1,1
+Sanyal A 2019,Placebo,15,26,1,1
+Anstee QM 2023,Tropifexor,42,50,1,1
+Anstee QM 2023,Cenicriviroc,41,48,1,1
+Anstee QM 2023,Tropifexor + Cenicriviroc,82,95,1,1
+Patel K 2020,Cilofexor,93,112,2,1
+Patel K 2020,Placebo,19,28,2,1
+Ratziu V 2023-B,Vonafexor,54,64,1,1
+Ratziu V 2023-B,Placebo,22,32,1,1
+Sanyal A 2023-A+B,Tropifexor,101,152,1,1
+Sanyal A 2023-A+B,Placebo,31,46,1,1
+Sanyal A 2023-C,Tropifexor,98,101,1,1
+Sanyal A 2023-C,Placebo,46,51,1,1
+Younossi ZM; Ratziu V 2019,Obeticholic acid,1180,1311,1,1
+Younossi ZM; Ratziu V 2019,Placebo,548,657,1,1
+Armstrong MJ 2016,Liraglutide,23,26,1,1
+Armstrong MJ 2016,Placebo,24,26,1,1
+Alkhouri N 2022,Semaglutide,17,21,3,1
+Alkhouri N 2022,Semaglutide + Cilofexor,34,44,3,1
+Alkhouri N 2022,Semaglutide + Firsocostat,19,22,3,1
+Alkhouri N 2022,Semaglutide + Cilofexor + Firsocostat,19,21,3,1
+Newsome PN 2021,Semaglutide,224,239,1,1
+Newsome PN 2021,Placebo,67,80,1,1
+Francque SM 2021,Lanifibranor,121,166,1,1
+Francque SM 2021,Placebo,50,81,1,1
+Gawrieh S 2021,Saroglitazar,40,78,1,1
+Gawrieh S 2021,Placebo,19,28,1,1
+Harrison SA 2020,MSDC-0602K,231,298,1,1
+Harrison SA 2020,Placebo,75,94,1,1
+Harrison SA 2023b,PXL065,68,87,1,1
+Harrison SA 2023b,Placebo,18,30,1,1
+"Huang, Jee-Fu 2021",Pioglitazone,34,43,1,1
+"Huang, Jee-Fu 2021",Placebo,35,47,1,1
+Harrison SA 2019,Resmetirom,73,84,1,1
+Harrison SA 2019,Placebo,28,41,1,1
+Harrison SA 2023c,Resmetirom,716,822,1,1
+Harrison SA 2023c,Placebo,260,318,1,1
+Harrison SA 2024,Resmetirom,592,645,1,1
+Harrison SA 2024,Placebo,298,321,1,1
+Sanyal A 2010,Pioglitazone,43,80,1,1
+Sanyal A 2010,Vitamin E,53,84,1,1
+Sanyal A 2010,Placebo,50,83,1,1
