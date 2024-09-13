@@ -1,0 +1,128 @@
+Separate indirect from direct evidence (SIDE) using back-calculation method
+
+Random effects model: 
+
+                                comparison k prop    nma direct indir. RoR z p-value
+                   Aldafermin:Cenicriviroc 0    0 1.5833      . 1.5833   . .       .
+                   Aldafermin:Efruxifermin 0    0 0.7604      . 0.7604   . .       .
+                   Aldafermin:Lanifibranor 0    0 1.0450      . 1.0450   . .       .
+                     Aldafermin:MSDC-0602K 0    0 1.3649      . 1.3649   . .       .
+               Aldafermin:Obeticholic acid 0    0 0.9012      . 0.9012   . .       .
+                   Aldafermin:Pegbelfermin 0    0 0.8833      . 0.8833   . .       .
+                   Aldafermin:Pegozafermin 0    0 0.3661      . 0.3661   . .       .
+                   Aldafermin:Pioglitazone 0    0 0.9383      . 0.9383   . .       .
+                        Aldafermin:Placebo 2 1.00 1.8285 1.8285      .   . .       .
+                         Aldafermin:PXL065 0    0 0.5988      . 0.5988   . .       .
+                     Aldafermin:Resmetirom 0    0 1.0175      . 1.0175   . .       .
+                   Aldafermin:Saroglitazar 0    0 0.3014      . 0.3014   . .       .
+                    Aldafermin:Semaglutide 0    0 1.2672      . 1.2672   . .       .
+                     Aldafermin:Tropifexor 0    0 1.4173      . 1.4173   . .       .
+                      Aldafermin:Vitamin E 0    0 0.8180      . 0.8180   . .       .
+       Aldafermin:Vitamin E + Pioglitazone 0    0 0.8661      . 0.8661   . .       .
+                 Cenicriviroc:Efruxifermin 0    0 0.4803      . 0.4803   . .       .
+                 Cenicriviroc:Lanifibranor 0    0 0.6600      . 0.6600   . .       .
+                   Cenicriviroc:MSDC-0602K 0    0 0.8620      . 0.8620   . .       .
+             Cenicriviroc:Obeticholic acid 0    0 0.5692      . 0.5692   . .       .
+                 Cenicriviroc:Pegbelfermin 0    0 0.5579      . 0.5579   . .       .
+                 Cenicriviroc:Pegozafermin 0    0 0.2312      . 0.2312   . .       .
+                 Cenicriviroc:Pioglitazone 0    0 0.5926      . 0.5926   . .       .
+                      Cenicriviroc:Placebo 2 1.00 1.1549 1.1549      .   . .       .
+                       Cenicriviroc:PXL065 0    0 0.3782      . 0.3782   . .       .
+                   Cenicriviroc:Resmetirom 0    0 0.6427      . 0.6427   . .       .
+                 Cenicriviroc:Saroglitazar 0    0 0.1904      . 0.1904   . .       .
+                  Cenicriviroc:Semaglutide 0    0 0.8004      . 0.8004   . .       .
+                   Cenicriviroc:Tropifexor 0    0 0.8952      . 0.8952   . .       .
+                    Cenicriviroc:Vitamin E 0    0 0.5166      . 0.5166   . .       .
+     Cenicriviroc:Vitamin E + Pioglitazone 0    0 0.5470      . 0.5470   . .       .
+                 Efruxifermin:Lanifibranor 0    0 1.3743      . 1.3743   . .       .
+                   Efruxifermin:MSDC-0602K 0    0 1.7950      . 1.7950   . .       .
+             Efruxifermin:Obeticholic acid 0    0 1.1852      . 1.1852   . .       .
+                 Efruxifermin:Pegbelfermin 0    0 1.1617      . 1.1617   . .       .
+                 Efruxifermin:Pegozafermin 0    0 0.4814      . 0.4814   . .       .
+                 Efruxifermin:Pioglitazone 0    0 1.2340      . 1.2340   . .       .
+                      Efruxifermin:Placebo 2 1.00 2.4047 2.4047      .   . .       .
+                       Efruxifermin:PXL065 0    0 0.7875      . 0.7875   . .       .
+                   Efruxifermin:Resmetirom 0    0 1.3382      . 1.3382   . .       .
+                 Efruxifermin:Saroglitazar 0    0 0.3964      . 0.3964   . .       .
+                  Efruxifermin:Semaglutide 0    0 1.6665      . 1.6665   . .       .
+                   Efruxifermin:Tropifexor 0    0 1.8639      . 1.8639   . .       .
+                    Efruxifermin:Vitamin E 0    0 1.0758      . 1.0758   . .       .
+     Efruxifermin:Vitamin E + Pioglitazone 0    0 1.1390      . 1.1390   . .       .
+                   Lanifibranor:MSDC-0602K 0    0 1.3061      . 1.3061   . .       .
+             Lanifibranor:Obeticholic acid 0    0 0.8624      . 0.8624   . .       .
+                 Lanifibranor:Pegbelfermin 0    0 0.8453      . 0.8453   . .       .
+                 Lanifibranor:Pegozafermin 0    0 0.3503      . 0.3503   . .       .
+                 Lanifibranor:Pioglitazone 0    0 0.8979      . 0.8979   . .       .
+                      Lanifibranor:Placebo 1 1.00 1.7498 1.7498      .   . .       .
+                       Lanifibranor:PXL065 0    0 0.5730      . 0.5730   . .       .
+                   Lanifibranor:Resmetirom 0    0 0.9737      . 0.9737   . .       .
+                 Lanifibranor:Saroglitazar 0    0 0.2884      . 0.2884   . .       .
+                  Lanifibranor:Semaglutide 0    0 1.2126      . 1.2126   . .       .
+                   Lanifibranor:Tropifexor 0    0 1.3563      . 1.3563   . .       .
+                    Lanifibranor:Vitamin E 0    0 0.7828      . 0.7828   . .       .
+     Lanifibranor:Vitamin E + Pioglitazone 0    0 0.8288      . 0.8288   . .       .
+               MSDC-0602K:Obeticholic acid 0    0 0.6603      . 0.6603   . .       .
+                   MSDC-0602K:Pegbelfermin 0    0 0.6472      . 0.6472   . .       .
+                   MSDC-0602K:Pegozafermin 0    0 0.2682      . 0.2682   . .       .
+                   MSDC-0602K:Pioglitazone 0    0 0.6875      . 0.6875   . .       .
+                        MSDC-0602K:Placebo 1 1.00 1.3397 1.3397      .   . .       .
+                         MSDC-0602K:PXL065 0    0 0.4387      . 0.4387   . .       .
+                     MSDC-0602K:Resmetirom 0    0 0.7455      . 0.7455   . .       .
+                   MSDC-0602K:Saroglitazar 0    0 0.2208      . 0.2208   . .       .
+                    MSDC-0602K:Semaglutide 0    0 0.9284      . 0.9284   . .       .
+                     MSDC-0602K:Tropifexor 0    0 1.0384      . 1.0384   . .       .
+                      MSDC-0602K:Vitamin E 0    0 0.5993      . 0.5993   . .       .
+       MSDC-0602K:Vitamin E + Pioglitazone 0    0 0.6346      . 0.6346   . .       .
+             Obeticholic acid:Pegbelfermin 0    0 0.9801      . 0.9801   . .       .
+             Obeticholic acid:Pegozafermin 0    0 0.4062      . 0.4062   . .       .
+             Obeticholic acid:Pioglitazone 0    0 1.0411      . 1.0411   . .       .
+                  Obeticholic acid:Placebo 2 1.00 2.0288 2.0288      .   . .       .
+                   Obeticholic acid:PXL065 0    0 0.6644      . 0.6644   . .       .
+               Obeticholic acid:Resmetirom 0    0 1.1290      . 1.1290   . .       .
+             Obeticholic acid:Saroglitazar 0    0 0.3344      . 0.3344   . .       .
+              Obeticholic acid:Semaglutide 0    0 1.4061      . 1.4061   . .       .
+               Obeticholic acid:Tropifexor 0    0 1.5726      . 1.5726   . .       .
+                Obeticholic acid:Vitamin E 0    0 0.9076      . 0.9076   . .       .
+ Obeticholic acid:Vitamin E + Pioglitazone 0    0 0.9610      . 0.9610   . .       .
+                 Pegbelfermin:Pegozafermin 0    0 0.4144      . 0.4144   . .       .
+                 Pegbelfermin:Pioglitazone 0    0 1.0622      . 1.0622   . .       .
+                      Pegbelfermin:Placebo 1 1.00 2.0700 2.0700      .   . .       .
+                       Pegbelfermin:PXL065 0    0 0.6779      . 0.6779   . .       .
+                   Pegbelfermin:Resmetirom 0    0 1.1519      . 1.1519   . .       .
+                 Pegbelfermin:Saroglitazar 0    0 0.3412      . 0.3412   . .       .
+                  Pegbelfermin:Semaglutide 0    0 1.4346      . 1.4346   . .       .
+                   Pegbelfermin:Tropifexor 0    0 1.6045      . 1.6045   . .       .
+                    Pegbelfermin:Vitamin E 0    0 0.9261      . 0.9261   . .       .
+     Pegbelfermin:Vitamin E + Pioglitazone 0    0 0.9805      . 0.9805   . .       .
+                 Pegozafermin:Pioglitazone 0    0 2.5631      . 2.5631   . .       .
+                      Pegozafermin:Placebo 1 1.00 4.9948 4.9948      .   . .       .
+                       Pegozafermin:PXL065 0    0 1.6357      . 1.6357   . .       .
+                   Pegozafermin:Resmetirom 0    0 2.7796      . 2.7796   . .       .
+                 Pegozafermin:Saroglitazar 0    0 0.8233      . 0.8233   . .       .
+                  Pegozafermin:Semaglutide 0    0 3.4616      . 3.4616   . .       .
+                   Pegozafermin:Tropifexor 0    0 3.8716      . 3.8716   . .       .
+                    Pegozafermin:Vitamin E 0    0 2.2345      . 2.2345   . .       .
+     Pegozafermin:Vitamin E + Pioglitazone 0    0 2.3660      . 2.3660   . .       .
+                      Pioglitazone:Placebo 1 1.00 1.9487 1.9487      .   . .       .
+                       Pioglitazone:PXL065 0    0 0.6382      . 0.6382   . .       .
+                   Pioglitazone:Resmetirom 0    0 1.0845      . 1.0845   . .       .
+                 Pioglitazone:Saroglitazar 0    0 0.3212      . 0.3212   . .       .
+                  Pioglitazone:Semaglutide 0    0 1.3505      . 1.3505   . .       .
+                   Pioglitazone:Tropifexor 0    0 1.5105      . 1.5105   . .       .
+                    Pioglitazone:Vitamin E 0    0 0.8718      . 0.8718   . .       .
+     Pioglitazone:Vitamin E + Pioglitazone 0    0 0.9231      . 0.9231   . .       .
+                            PXL065:Placebo 1 1.00 3.0536 3.0536      .   . .       .
+                        Resmetirom:Placebo 2 1.00 1.7970 1.7970      .   . .       .
+                      Saroglitazar:Placebo 1 1.00 6.0667 6.0667      .   . .       .
+ [ reached getOption("max.print") -- omitted 25 rows ]
+
+Legend:
+ comparison - Treatment comparison
+ k          - Number of studies providing direct evidence
+ prop       - Direct evidence proportion
+ nma        - Estimated treatment effect (OR) in network meta-analysis
+ direct     - Estimated treatment effect (OR) derived from direct evidence
+ indir.     - Estimated treatment effect (OR) derived from indirect evidence
+ RoR        - Ratio of Ratios (direct versus indirect)
+ z          - z-value of test for disagreement (direct versus indirect)
+ p-value    - p-value of test for disagreement (direct versus indirect)
