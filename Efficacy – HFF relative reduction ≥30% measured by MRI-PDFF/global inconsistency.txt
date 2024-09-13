@@ -1,0 +1,20 @@
+Q statistics to assess homogeneity / consistency
+
+                    Q df p-value
+Total           17.20  5  0.0041
+Within designs  17.20  5  0.0041
+Between designs  0.00  0      --
+
+Design-specific decomposition of within-designs Q statistic
+
+               Design    Q df p-value
+   Placebo:Aldafermin 9.68  2  0.0079
+ Placebo:Efruxifermin 4.32  1  0.0376
+ Placebo:Pegozafermin 2.88  1  0.0896
+ Placebo:Pegbelfermin 0.32  1  0.5725
+
+Q statistic to assess consistency under the assumption of
+a full design-by-treatment interaction random effects model
+
+                   Q df p-value tau.within tau2.within
+Between designs 0.00  0      --     1.0918      1.1920

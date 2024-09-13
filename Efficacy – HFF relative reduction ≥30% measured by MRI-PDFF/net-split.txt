@@ -1,0 +1,107 @@
+Separate indirect from direct evidence (SIDE) using back-calculation method
+
+Random effects model: 
+
+                             comparison k prop     nma  direct  indir. RoR z p-value
+                Aldafermin:Cenicriviroc 0    0 11.3559       . 11.3559   . .       .
+                   Aldafermin:Cilofexor 0    0  3.8408       .  3.8408   . .       .
+                Aldafermin:Efruxifermin 0    0  0.1620       .  0.1620   . .       .
+                      Aldafermin:MET409 0    0  0.2476       .  0.2476   . .       .
+                Aldafermin:Pegbelfermin 0    0  1.9615       .  1.9615   . .       .
+                Aldafermin:Pegozafermin 0    0  0.9594       .  0.9594   . .       .
+                     Aldafermin:Placebo 3 1.00  9.9052  9.9052       .   . .       .
+                      Aldafermin:PXL065 0    0  3.5786       .  3.5786   . .       .
+                  Aldafermin:Resmetirom 0    0  1.9810       .  1.9810   . .       .
+                Aldafermin:Saroglitazar 0    0  3.2001       .  3.2001   . .       .
+                  Aldafermin:Tropifexor 0    0  2.3658       .  2.3658   . .       .
+   Aldafermin:Tropifexor + Cenicriviroc 0    0  4.7316       .  4.7316   . .       .
+                   Aldafermin:Vonafexor 0    0  1.7546       .  1.7546   . .       .
+                 Cenicriviroc:Cilofexor 0    0  0.3382       .  0.3382   . .       .
+              Cenicriviroc:Efruxifermin 0    0  0.0143       .  0.0143   . .       .
+                    Cenicriviroc:MET409 0    0  0.0218       .  0.0218   . .       .
+              Cenicriviroc:Pegbelfermin 0    0  0.1727       .  0.1727   . .       .
+              Cenicriviroc:Pegozafermin 0    0  0.0845       .  0.0845   . .       .
+                   Cenicriviroc:Placebo 0    0  0.8722       .  0.8722   . .       .
+                    Cenicriviroc:PXL065 0    0  0.3151       .  0.3151   . .       .
+                Cenicriviroc:Resmetirom 0    0  0.1744       .  0.1744   . .       .
+              Cenicriviroc:Saroglitazar 0    0  0.2818       .  0.2818   . .       .
+                Cenicriviroc:Tropifexor 1 1.00  0.2083  0.2083       .   . .       .
+ Cenicriviroc:Tropifexor + Cenicriviroc 1 1.00  0.4167  0.4167       .   . .       .
+                 Cenicriviroc:Vonafexor 0    0  0.1545       .  0.1545   . .       .
+                 Cilofexor:Efruxifermin 0    0  0.0422       .  0.0422   . .       .
+                       Cilofexor:MET409 0    0  0.0645       .  0.0645   . .       .
+                 Cilofexor:Pegbelfermin 0    0  0.5107       .  0.5107   . .       .
+                 Cilofexor:Pegozafermin 0    0  0.2498       .  0.2498   . .       .
+                      Cilofexor:Placebo 1 1.00  2.5789  2.5789       .   . .       .
+                       Cilofexor:PXL065 0    0  0.9317       .  0.9317   . .       .
+                   Cilofexor:Resmetirom 0    0  0.5158       .  0.5158   . .       .
+                 Cilofexor:Saroglitazar 0    0  0.8332       .  0.8332   . .       .
+                   Cilofexor:Tropifexor 0    0  0.6160       .  0.6160   . .       .
+    Cilofexor:Tropifexor + Cenicriviroc 0    0  1.2319       .  1.2319   . .       .
+                    Cilofexor:Vonafexor 0    0  0.4568       .  0.4568   . .       .
+                    Efruxifermin:MET409 0    0  1.5287       .  1.5287   . .       .
+              Efruxifermin:Pegbelfermin 0    0 12.1094       . 12.1094   . .       .
+              Efruxifermin:Pegozafermin 0    0  5.9226       .  5.9226   . .       .
+                   Efruxifermin:Placebo 2 1.00 61.1496 61.1496       .   . .       .
+                    Efruxifermin:PXL065 0    0 22.0928       . 22.0928   . .       .
+                Efruxifermin:Resmetirom 0    0 12.2299       . 12.2299   . .       .
+              Efruxifermin:Saroglitazar 0    0 19.7560       . 19.7560   . .       .
+                Efruxifermin:Tropifexor 0    0 14.6054       . 14.6054   . .       .
+ Efruxifermin:Tropifexor + Cenicriviroc 0    0 29.2108       . 29.2108   . .       .
+                 Efruxifermin:Vonafexor 0    0 10.8322       . 10.8322   . .       .
+                    MET409:Pegbelfermin 0    0  7.9211       .  7.9211   . .       .
+                    MET409:Pegozafermin 0    0  3.8741       .  3.8741   . .       .
+                         MET409:Placebo 1 1.00 40.0000 40.0000       .   . .       .
+                          MET409:PXL065 0    0 14.4516       . 14.4516   . .       .
+                      MET409:Resmetirom 0    0  8.0000       .  8.0000   . .       .
+                    MET409:Saroglitazar 0    0 12.9231       . 12.9231   . .       .
+                      MET409:Tropifexor 0    0  9.5539       .  9.5539   . .       .
+       MET409:Tropifexor + Cenicriviroc 0    0 19.1078       . 19.1078   . .       .
+                       MET409:Vonafexor 0    0  7.0857       .  7.0857   . .       .
+              Pegbelfermin:Pegozafermin 0    0  0.4891       .  0.4891   . .       .
+                   Pegbelfermin:Placebo 2 1.00  5.0498  5.0498       .   . .       .
+                    Pegbelfermin:PXL065 0    0  1.8244       .  1.8244   . .       .
+                Pegbelfermin:Resmetirom 0    0  1.0100       .  1.0100   . .       .
+              Pegbelfermin:Saroglitazar 0    0  1.6315       .  1.6315   . .       .
+                Pegbelfermin:Tropifexor 0    0  1.2061       .  1.2061   . .       .
+ Pegbelfermin:Tropifexor + Cenicriviroc 0    0  2.4122       .  2.4122   . .       .
+                 Pegbelfermin:Vonafexor 0    0  0.8945       .  0.8945   . .       .
+                   Pegozafermin:Placebo 2 1.00 10.3249 10.3249       .   . .       .
+                    Pegozafermin:PXL065 0    0  3.7303       .  3.7303   . .       .
+                Pegozafermin:Resmetirom 0    0  2.0650       .  2.0650   . .       .
+              Pegozafermin:Saroglitazar 0    0  3.3357       .  3.3357   . .       .
+                Pegozafermin:Tropifexor 0    0  2.4661       .  2.4661   . .       .
+ Pegozafermin:Tropifexor + Cenicriviroc 0    0  4.9321       .  4.9321   . .       .
+                 Pegozafermin:Vonafexor 0    0  1.8290       .  1.8290   . .       .
+                         PXL065:Placebo 1 1.00  2.7679  2.7679       .   . .       .
+                     Resmetirom:Placebo 1 1.00  5.0000  5.0000       .   . .       .
+                   Saroglitazar:Placebo 1 1.00  3.0952  3.0952       .   . .       .
+                     Tropifexor:Placebo 1 1.00  4.1868  4.1868       .   . .       .
+      Tropifexor + Cenicriviroc:Placebo 0    0  2.0934       .  2.0934   . .       .
+                      Vonafexor:Placebo 1 1.00  5.6452  5.6452       .   . .       .
+                      PXL065:Resmetirom 0    0  0.5536       .  0.5536   . .       .
+                    PXL065:Saroglitazar 0    0  0.8942       .  0.8942   . .       .
+                      PXL065:Tropifexor 0    0  0.6611       .  0.6611   . .       .
+       PXL065:Tropifexor + Cenicriviroc 0    0  1.3222       .  1.3222   . .       .
+                       PXL065:Vonafexor 0    0  0.4903       .  0.4903   . .       .
+                Resmetirom:Saroglitazar 0    0  1.6154       .  1.6154   . .       .
+                  Resmetirom:Tropifexor 0    0  1.1942       .  1.1942   . .       .
+   Resmetirom:Tropifexor + Cenicriviroc 0    0  2.3885       .  2.3885   . .       .
+                   Resmetirom:Vonafexor 0    0  0.8857       .  0.8857   . .       .
+                Saroglitazar:Tropifexor 0    0  0.7393       .  0.7393   . .       .
+ Saroglitazar:Tropifexor + Cenicriviroc 0    0  1.4786       .  1.4786   . .       .
+                 Saroglitazar:Vonafexor 0    0  0.5483       .  0.5483   . .       .
+   Tropifexor:Tropifexor + Cenicriviroc 1 1.00  2.0000  2.0000       .   . .       .
+                   Tropifexor:Vonafexor 0    0  0.7417       .  0.7417   . .       .
+    Tropifexor + Cenicriviroc:Vonafexor 0    0  0.3708       .  0.3708   . .       .
+
+Legend:
+ comparison - Treatment comparison
+ k          - Number of studies providing direct evidence
+ prop       - Direct evidence proportion
+ nma        - Estimated treatment effect (OR) in network meta-analysis
+ direct     - Estimated treatment effect (OR) derived from direct evidence
+ indir.     - Estimated treatment effect (OR) derived from indirect evidence
+ RoR        - Ratio of Ratios (direct versus indirect)
+ z          - z-value of test for disagreement (direct versus indirect)
+ p-value    - p-value of test for disagreement (direct versus indirect)

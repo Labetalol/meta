@@ -1,0 +1,94 @@
+Original data (with adjusted standard errors for multi-arm studies):
+
+                        treat1                    treat2      TE   seTE seTE.adj narms multiarm
+Harrison SA 2018    Aldafermin                   Placebo  4.2964 0.8284   1.3705     2         
+Harrison SA 2021a   Aldafermin                   Placebo  1.5805 0.5323   1.2147     2         
+Harrison SA 2022    Aldafermin                   Placebo  1.4978 0.4131   1.1674     2         
+Harrison SA 2021b Efruxifermin                   Placebo  6.5762 1.5731   1.9149     2         
+Harrison SA 2023a Efruxifermin                   Placebo  3.1398 0.5072   1.2039     2         
+Loomba R 2023a    Pegbelfermin                   Placebo  1.9052 0.7553   1.3276     2         
+Loomba R 2023b    Pegozafermin                   Placebo  1.6147 0.3434   1.1445     2         
+Loomba R 2023c    Pegozafermin                   Placebo  4.1552 1.4565   1.8203     2         
+Sanyal A 2019     Pegbelfermin                   Placebo  1.3758 0.5561   1.2253     2         
+Anstee QM 2023    Cenicriviroc                Tropifexor -1.5686 0.9106   1.8360     3        *
+Anstee QM 2023      Tropifexor Tropifexor + Cenicriviroc  0.6931 0.6412   1.4678     3        *
+Anstee QM 2023    Cenicriviroc Tropifexor + Cenicriviroc -0.8755 0.8408   1.7010     3        *
+Harrison SA 2021c       MET409                   Placebo  3.6889 0.8958   1.4123     2         
+Patel K 2020         Cilofexor                   Placebo  0.9474 0.6556   1.2735     2         
+Ratziu V 2023-B        Placebo                 Vonafexor -1.7308 0.5983   1.2450     2         
+Sanyal A 2023-C        Placebo                Tropifexor -1.4319 0.4139   1.1676     2         
+Harrison SA 2023b      Placebo                    PXL065 -1.0181 0.5386   1.2174     2         
+Harrison SA 2019       Placebo                Resmetirom -1.6094 0.4509   1.1813     2         
+
+Number of treatment arms (by study):
+                  narms
+Harrison SA 2018      2
+Harrison SA 2021a     2
+Harrison SA 2022      2
+Harrison SA 2021b     2
+Harrison SA 2023a     2
+Loomba R 2023a        2
+Loomba R 2023b        2
+Loomba R 2023c        2
+Sanyal A 2019         2
+Anstee QM 2023        3
+Harrison SA 2021c     2
+Patel K 2020          2
+Ratziu V 2023-B       2
+Sanyal A 2023-C       2
+Harrison SA 2023b     2
+Harrison SA 2019      2
+
+Results (random effects model):
+
+                        treat1                    treat2      OR             95%-CI
+Harrison SA 2018    Aldafermin                   Placebo  9.9052 [2.4286;  40.3984]
+Harrison SA 2021a   Aldafermin                   Placebo  9.9052 [2.4286;  40.3984]
+Harrison SA 2022    Aldafermin                   Placebo  9.9052 [2.4286;  40.3984]
+Harrison SA 2021b Efruxifermin                   Placebo 61.1496 [8.2958; 450.7447]
+Harrison SA 2023a Efruxifermin                   Placebo 61.1496 [8.2958; 450.7447]
+Loomba R 2023a    Pegbelfermin                   Placebo  5.0498 [0.8647;  29.4919]
+Loomba R 2023b    Pegozafermin                   Placebo 10.3249 [1.5458;  68.9643]
+Loomba R 2023c    Pegozafermin                   Placebo 10.3249 [1.5458;  68.9643]
+Sanyal A 2019     Pegbelfermin                   Placebo  5.0498 [0.8647;  29.4919]
+Anstee QM 2023    Cenicriviroc                Tropifexor  0.2083 [0.0128;   3.3799]
+Anstee QM 2023      Tropifexor Tropifexor + Cenicriviroc  2.0000 [0.1672;  23.9214]
+Anstee QM 2023    Cenicriviroc Tropifexor + Cenicriviroc  0.4167 [0.0280;   6.2055]
+Harrison SA 2021c       MET409                   Placebo 40.0000 [2.5114; 637.0868]
+Patel K 2020         Cilofexor                   Placebo  2.5789 [0.2125;  31.2947]
+Ratziu V 2023-B        Placebo                 Vonafexor  0.1771 [0.0154;   2.0327]
+Sanyal A 2023-C        Placebo                Tropifexor  0.2388 [0.0242;   2.3552]
+Harrison SA 2023b      Placebo                    PXL065  0.3613 [0.0332;   3.9278]
+Harrison SA 2019       Placebo                Resmetirom  0.2000 [0.0197;   2.0255]
+
+Number of studies: k = 16
+Number of pairwise comparisons: m = 18
+Number of treatments: n = 13
+Number of designs: d = 11
+
+Random effects model
+
+Treatment estimate (sm = 'OR', comparison: other treatments vs 'Placebo'):
+                               OR             95%-CI     z  p-value               95%-PI
+Aldafermin                 9.9052 [2.4286;  40.3984]  3.20   0.0014  [0.2635;  372.3992]
+Cenicriviroc               0.8722 [0.0237;  32.1086] -0.07   0.9408  [0.0023;  331.2921]
+Cilofexor                  2.5789 [0.2125;  31.2947]  0.74   0.4569  [0.0245;  271.7263]
+Efruxifermin              61.1496 [8.2958; 450.7447]  4.04 < 0.0001  [0.9670; 3866.7950]
+MET409                    40.0000 [2.5114; 637.0868]  2.61   0.0090  [0.2816; 5682.3547]
+Pegbelfermin               5.0498 [0.8647;  29.4919]  1.80   0.0721  [0.0993;  256.8682]
+Pegozafermin              10.3249 [1.5458;  68.9643]  2.41   0.0160  [0.1794;  594.3338]
+Placebo                         .                  .     .        .                    .
+PXL065                     2.7679 [0.2546;  30.0906]  0.84   0.4030  [0.0295;  259.4066]
+Resmetirom                 5.0000 [0.4937;  50.6363]  1.36   0.1730  [0.0575;  435.0599]
+Tropifexor                 4.1868 [0.4246;  41.2841]  1.23   0.2201  [0.0495;  354.3519]
+Tropifexor + Cenicriviroc  2.0934 [0.0716;  61.2257]  0.43   0.6680  [0.0073;  602.2624]
+Vonafexor                  5.6452 [0.4920;  64.7769]  1.39   0.1645  [0.0569;  560.2403]
+
+Quantifying heterogeneity / inconsistency:
+tau^2 = 1.1920; tau = 1.0918; I^2 = 70.9% [32.3%; 87.5%]
+
+Tests of heterogeneity (within designs) and inconsistency (between designs):
+                   Q d.f. p-value
+Total           17.2    5  0.0041
+Within designs  17.2    5  0.0041
+Between designs  0.0    0      --
