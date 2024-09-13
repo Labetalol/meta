@@ -1,0 +1,137 @@
+Comparison,Number of studies,Within-study bias,Reporting bias,Indirectness,Imprecision,Heterogeneity,Incoherence,Confidence rating
+Aldafermin:Placebo,2,No concerns,Low risk,No concerns,No concerns,Some concerns,Some concerns,Low
+Cenicriviroc:Placebo,1,No concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Cenicriviroc:Tropifexor,1,Some concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Cenicriviroc:Tropifexor + Cenicriviroc,1,Some concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Efruxifermin:Placebo,1,Major concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Elafibranor:Placebo,1,Some concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+MSDC-0602K:Placebo,1,Some concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Obeticholic acid:Placebo,2,Some concerns,Low risk,No concerns,No concerns,Major concerns,Some concerns,Very low
+Placebo:PXL065,1,Some concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Pegbelfermin:Placebo,1,Some concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Pegozafermin:Placebo,1,No concerns,Low risk,No concerns,No concerns,Major concerns,Some concerns,Very low
+Pioglitazone:Placebo,3,No concerns,Low risk,No concerns,No concerns,Some concerns,No concerns,Moderate
+Pioglitazone:Vitamin E,1,No concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Placebo:Resmetirom,2,No concerns,Low risk,No concerns,No concerns,Major concerns,Some concerns,Very low
+Placebo:Saroglitazar,1,Major concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Placebo:Vitamin E,2,No concerns,Low risk,No concerns,No concerns,Major concerns,Some concerns,Very low
+Placebo:Vitamin E + Pioglitazone,1,No concerns,Low risk,No concerns,No concerns,Some concerns,No concerns,Moderate
+Tropifexor:Tropifexor + Cenicriviroc,1,Some concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Vitamin E:Vitamin E + Pioglitazone,1,No concerns,Low risk,No concerns,Major concerns,No concerns,No concerns,Low
+Aldafermin:Cenicriviroc,0,No concerns,Low risk,No concerns,No concerns,Major concerns,Some concerns,Very low
+Aldafermin:Efruxifermin,0,Some concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Aldafermin:Elafibranor,0,Some concerns,Low risk,No concerns,No concerns,Major concerns,Some concerns,Very low
+Aldafermin:MSDC-0602K,0,Some concerns,Low risk,No concerns,No concerns,Major concerns,Some concerns,Very low
+Aldafermin:Obeticholic acid,0,No concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Aldafermin:PXL065,0,Some concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Aldafermin:Pegbelfermin,0,Some concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Aldafermin:Pegozafermin,0,No concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Aldafermin:Pioglitazone,0,No concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Aldafermin:Resmetirom,0,No concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Aldafermin:Saroglitazar,0,Some concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Aldafermin:Tropifexor,0,No concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Aldafermin:Tropifexor + Cenicriviroc,0,No concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Aldafermin:Vitamin E,0,No concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Aldafermin:Vitamin E + Pioglitazone,0,No concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Cenicriviroc:Efruxifermin,0,Some concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Cenicriviroc:Elafibranor,0,Some concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Cenicriviroc:MSDC-0602K,0,Some concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Cenicriviroc:Obeticholic acid,0,No concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Cenicriviroc:PXL065,0,Some concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Cenicriviroc:Pegbelfermin,0,Some concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Cenicriviroc:Pegozafermin,0,No concerns,Low risk,No concerns,No concerns,Major concerns,Some concerns,Very low
+Cenicriviroc:Pioglitazone,0,No concerns,Low risk,No concerns,No concerns,Major concerns,Some concerns,Very low
+Cenicriviroc:Resmetirom,0,No concerns,Low risk,No concerns,Some concerns,Some concerns,Some concerns,Very low
+Cenicriviroc:Saroglitazar,0,Some concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Cenicriviroc:Vitamin E,0,No concerns,Low risk,No concerns,No concerns,Major concerns,Some concerns,Very low
+Cenicriviroc:Vitamin E + Pioglitazone,0,No concerns,Low risk,No concerns,No concerns,Major concerns,Some concerns,Very low
+Efruxifermin:Elafibranor,0,Major concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Efruxifermin:MSDC-0602K,0,Major concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Efruxifermin:Obeticholic acid,0,Some concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Efruxifermin:PXL065,0,Major concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Efruxifermin:Pegbelfermin,0,Major concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Efruxifermin:Pegozafermin,0,Some concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Efruxifermin:Pioglitazone,0,Some concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Efruxifermin:Resmetirom,0,Some concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Efruxifermin:Saroglitazar,0,Major concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Efruxifermin:Tropifexor,0,Some concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Efruxifermin:Tropifexor + Cenicriviroc,0,Some concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Efruxifermin:Vitamin E,0,Some concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Efruxifermin:Vitamin E + Pioglitazone,0,Some concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Elafibranor:MSDC-0602K,0,Some concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Elafibranor:Obeticholic acid,0,Some concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Elafibranor:PXL065,0,Some concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Elafibranor:Pegbelfermin,0,Some concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Elafibranor:Pegozafermin,0,Some concerns,Low risk,No concerns,Some concerns,Some concerns,Some concerns,Very low
+Elafibranor:Pioglitazone,0,Some concerns,Low risk,No concerns,Some concerns,Some concerns,Some concerns,Very low
+Elafibranor:Resmetirom,0,Some concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Elafibranor:Saroglitazar,0,Major concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Elafibranor:Tropifexor,0,Some concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Elafibranor:Tropifexor + Cenicriviroc,0,Some concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Elafibranor:Vitamin E,0,No concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Elafibranor:Vitamin E + Pioglitazone,0,No concerns,Low risk,No concerns,No concerns,Major concerns,Some concerns,Very low
+MSDC-0602K:Obeticholic acid,0,Some concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+MSDC-0602K:PXL065,0,Some concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+MSDC-0602K:Pegbelfermin,0,Some concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+MSDC-0602K:Pegozafermin,0,Some concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+MSDC-0602K:Pioglitazone,0,Some concerns,Low risk,No concerns,Some concerns,Some concerns,Some concerns,Very low
+MSDC-0602K:Resmetirom,0,Some concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+MSDC-0602K:Saroglitazar,0,Major concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+MSDC-0602K:Tropifexor,0,Some concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+MSDC-0602K:Tropifexor + Cenicriviroc,0,Some concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+MSDC-0602K:Vitamin E,0,No concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+MSDC-0602K:Vitamin E + Pioglitazone,0,No concerns,Low risk,No concerns,No concerns,Major concerns,Some concerns,Very low
+Obeticholic acid:PXL065,0,Some concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Obeticholic acid:Pegbelfermin,0,Some concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Obeticholic acid:Pegozafermin,0,No concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Obeticholic acid:Pioglitazone,0,No concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Obeticholic acid:Resmetirom,0,No concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Obeticholic acid:Saroglitazar,0,Some concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Obeticholic acid:Tropifexor,0,Some concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Obeticholic acid:Tropifexor + Cenicriviroc,0,Some concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Obeticholic acid:Vitamin E,0,No concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Obeticholic acid:Vitamin E + Pioglitazone,0,No concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Pegbelfermin:PXL065,0,Some concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Pegozafermin:PXL065,0,Some concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Pioglitazone:PXL065,0,Some concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+PXL065:Resmetirom,0,Some concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+PXL065:Saroglitazar,0,Major concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+PXL065:Tropifexor,0,Some concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+PXL065:Tropifexor + Cenicriviroc,0,Some concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+PXL065:Vitamin E,0,No concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+PXL065:Vitamin E + Pioglitazone,0,No concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Pegbelfermin:Pegozafermin,0,Some concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Pegbelfermin:Pioglitazone,0,Some concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Pegbelfermin:Resmetirom,0,Some concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Pegbelfermin:Saroglitazar,0,Major concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Pegbelfermin:Tropifexor,0,Some concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Pegbelfermin:Tropifexor + Cenicriviroc,0,Some concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Pegbelfermin:Vitamin E,0,No concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Pegbelfermin:Vitamin E + Pioglitazone,0,No concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Pegozafermin:Pioglitazone,0,No concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Pegozafermin:Resmetirom,0,No concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Pegozafermin:Saroglitazar,0,Some concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Pegozafermin:Tropifexor,0,No concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Pegozafermin:Tropifexor + Cenicriviroc,0,No concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Pegozafermin:Vitamin E,0,No concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Pegozafermin:Vitamin E + Pioglitazone,0,No concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Pioglitazone:Resmetirom,0,No concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Pioglitazone:Saroglitazar,0,Some concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Pioglitazone:Tropifexor,0,Some concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Pioglitazone:Tropifexor + Cenicriviroc,0,No concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Pioglitazone:Vitamin E + Pioglitazone,0,No concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Placebo:Tropifexor,0,Some concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Placebo:Tropifexor + Cenicriviroc,0,Some concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Resmetirom:Saroglitazar,0,Some concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Resmetirom:Tropifexor,0,No concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Resmetirom:Tropifexor + Cenicriviroc,0,No concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Resmetirom:Vitamin E,0,No concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Resmetirom:Vitamin E + Pioglitazone,0,No concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Saroglitazar:Tropifexor,0,Some concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Saroglitazar:Tropifexor + Cenicriviroc,0,Some concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Saroglitazar:Vitamin E,0,Some concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Saroglitazar:Vitamin E + Pioglitazone,0,Some concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Tropifexor:Vitamin E,0,No concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Tropifexor:Vitamin E + Pioglitazone,0,No concerns,Low risk,No concerns,Some concerns,Some concerns,Some concerns,Very low
+Tropifexor + Cenicriviroc:Vitamin E,0,No concerns,Low risk,No concerns,Major concerns,No concerns,Some concerns,Very low
+Tropifexor + Cenicriviroc:Vitamin E + Pioglitazone,0,No concerns,Low risk,No concerns,Some concerns,Some concerns,Some concerns,Very low

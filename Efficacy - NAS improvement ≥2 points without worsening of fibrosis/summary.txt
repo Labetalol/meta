@@ -1,0 +1,115 @@
+Original data (with adjusted standard errors for multi-arm studies):
+
+                                     treat1                    treat2      TE   seTE seTE.adj narms multiarm
+Friedman SL; Ratziu V 2018     Cenicriviroc                   Placebo -0.2022 0.3119   0.5740     2         
+Harrison SA 2021a                Aldafermin                   Placebo  2.7921 0.7968   0.9312     2         
+Harrison SA 2022                 Aldafermin                   Placebo  1.2150 0.4638   0.6688     2         
+Harrison SA 2021b              Efruxifermin                   Placebo  1.2368 1.4640   1.5413     2         
+Loomba R 2023a                 Pegbelfermin                   Placebo  0.6288 0.5190   0.7082     2         
+Loomba R 2023b                 Pegozafermin                   Placebo  1.5708 0.3472   0.5939     2         
+Anstee QM 2023                 Cenicriviroc                Tropifexor -0.0610 0.6179   1.0469     3        *
+Anstee QM 2023                   Tropifexor Tropifexor + Cenicriviroc -0.0888 0.5344   0.8567     3        *
+Anstee QM 2023                 Cenicriviroc Tropifexor + Cenicriviroc -0.1498 0.5040   0.8137     3        *
+Neuschwander-Tetri BA 2015 Obeticholic acid                   Placebo  1.1365 0.3029   0.5692     2         
+Younossi ZM; Ratziu V 2019 Obeticholic acid                   Placebo  0.4309 0.1571   0.5068     2         
+Ratziu V 2016                   Elafibranor                   Placebo  0.1630 0.3006   0.5680     2         
+Siddiqui MS 2021                    Placebo              Saroglitazar -0.8473 1.3452   1.4289     2         
+Cusi K 2016                    Pioglitazone                   Placebo  2.2687 0.5165   0.7064     2         
+Harrison SA 2020                 MSDC-0602K                   Placebo  0.2026 0.2869   0.5608     2         
+Harrison SA 2023b                   Placebo                    PXL065 -0.6815 0.5135   0.7041     2         
+Huang, Jee-Fu 2021             Pioglitazone                   Placebo  1.9459 0.6443   0.8046     2         
+Sanyal A 2010                  Pioglitazone                   Placebo  0.7576 0.3651   0.7534     3        *
+Sanyal A 2010                  Pioglitazone                 Vitamin E -0.3868 0.3233   0.6950     3        *
+Sanyal A 2010                       Placebo                 Vitamin E -1.1444 0.3550   0.7372     3        *
+Harrison SA 2019                    Placebo                Resmetirom -0.9854 0.4359   0.6498     2         
+Harrison SA 2024                    Placebo                Resmetirom -1.0459 0.1591   0.5074     2         
+Bril F 2019                         Placebo                 Vitamin E -0.6454 0.5797   0.9597     3        *
+Bril F 2019                       Vitamin E  Vitamin E + Pioglitazone -0.9835 0.4896   0.8030     3        *
+Bril F 2019                         Placebo  Vitamin E + Pioglitazone -1.6289 0.5603   0.9158     3        *
+
+Number of treatment arms (by study):
+                           narms
+Friedman SL; Ratziu V 2018     2
+Harrison SA 2021a              2
+Harrison SA 2022               2
+Harrison SA 2021b              2
+Loomba R 2023a                 2
+Loomba R 2023b                 2
+Anstee QM 2023                 3
+Neuschwander-Tetri BA 2015     2
+Younossi ZM; Ratziu V 2019     2
+Ratziu V 2016                  2
+Siddiqui MS 2021               2
+Cusi K 2016                    2
+Harrison SA 2020               2
+Harrison SA 2023b              2
+Huang, Jee-Fu 2021             2
+Sanyal A 2010                  3
+Harrison SA 2019               2
+Harrison SA 2024               2
+Bril F 2019                    3
+
+Results (random effects model):
+
+                                     treat1                    treat2     OR            95%-CI
+Friedman SL; Ratziu V 2018     Cenicriviroc                   Placebo 0.8169 [0.2652;  2.5162]
+Harrison SA 2021a                Aldafermin                   Placebo 5.7647 [1.9879; 16.7171]
+Harrison SA 2022                 Aldafermin                   Placebo 5.7647 [1.9879; 16.7171]
+Harrison SA 2021b              Efruxifermin                   Placebo 3.4444 [0.1679; 70.6416]
+Loomba R 2023a                 Pegbelfermin                   Placebo 1.8754 [0.4680;  7.5150]
+Loomba R 2023b                 Pegozafermin                   Placebo 4.8105 [1.5020; 15.4063]
+Anstee QM 2023                 Cenicriviroc                Tropifexor 0.9409 [0.2026;  4.3701]
+Anstee QM 2023                   Tropifexor Tropifexor + Cenicriviroc 0.9150 [0.2233;  3.7488]
+Anstee QM 2023                 Cenicriviroc Tropifexor + Cenicriviroc 0.8609 [0.2195;  3.3765]
+Neuschwander-Tetri BA 2015 Obeticholic acid                   Placebo 2.1021 [1.0011;  4.4141]
+Younossi ZM; Ratziu V 2019 Obeticholic acid                   Placebo 2.1021 [1.0011;  4.4141]
+Ratziu V 2016                   Elafibranor                   Placebo 1.1771 [0.3867;  3.5830]
+Siddiqui MS 2021                    Placebo              Saroglitazar 0.4286 [0.0260;  7.0516]
+Cusi K 2016                    Pioglitazone                   Placebo 4.2351 [1.9777;  9.0693]
+Harrison SA 2020                 MSDC-0602K                   Placebo 1.2245 [0.4079;  3.6757]
+Harrison SA 2023b                   Placebo                    PXL065 0.5059 [0.1273;  2.0109]
+Huang, Jee-Fu 2021             Pioglitazone                   Placebo 4.2351 [1.9777;  9.0693]
+Sanyal A 2010                  Pioglitazone                   Placebo 4.2351 [1.9777;  9.0693]
+Sanyal A 2010                  Pioglitazone                 Vitamin E 1.2257 [0.4719;  3.1840]
+Sanyal A 2010                       Placebo                 Vitamin E 0.2894 [0.1214;  0.6900]
+Harrison SA 2019                    Placebo                Resmetirom 0.3595 [0.1642;  0.7873]
+Harrison SA 2024                    Placebo                Resmetirom 0.3595 [0.1642;  0.7873]
+Bril F 2019                         Placebo                 Vitamin E 0.2894 [0.1214;  0.6900]
+Bril F 2019                       Vitamin E  Vitamin E + Pioglitazone 0.4843 [0.1398;  1.6772]
+Bril F 2019                         Placebo  Vitamin E + Pioglitazone 0.1402 [0.0389;  0.5047]
+
+Number of studies: k = 19
+Number of pairwise comparisons: m = 25
+Number of treatments: n = 17
+Number of designs: d = 15
+
+Random effects model
+
+Treatment estimate (sm = 'OR', comparison: other treatments vs 'Placebo'):
+                              OR            95%-CI     z p-value              95%-PI
+Aldafermin                5.7647 [1.9879; 16.7171]  3.22  0.0013  [0.8915;  37.2751]
+Cenicriviroc              0.8169 [0.2652;  2.5162] -0.35  0.7246  [0.1190;   5.6083]
+Efruxifermin              3.4444 [0.1679; 70.6416]  0.80  0.4223  [0.0542; 218.7346]
+Elafibranor               1.1771 [0.3867;  3.5830]  0.29  0.7741  [0.1735;   7.9856]
+MSDC-0602K                1.2245 [0.4079;  3.6757]  0.36  0.7180  [0.1830;   8.1926]
+Obeticholic acid          2.1021 [1.0011;  4.4141]  1.96  0.0497  [0.4351;  10.1557]
+Pegbelfermin              1.8754 [0.4680;  7.5150]  0.89  0.3746  [0.2074;  16.9584]
+Pegozafermin              4.8105 [1.5020; 15.4063]  2.64  0.0082  [0.6736;  34.3534]
+Pioglitazone              4.2351 [1.9777;  9.0693]  3.72  0.0002  [0.8627;  20.7912]
+Placebo                        .                 .     .       .                   .
+PXL065                    1.9768 [0.4973;  7.8584]  0.97  0.3331  [0.2205;  17.7216]
+Resmetirom                2.7815 [1.2702;  6.0911]  2.56  0.0105  [0.5562;  13.9110]
+Saroglitazar              2.3333 [0.1418; 38.3923]  0.59  0.5532  [0.0484; 112.5709]
+Tropifexor                0.8683 [0.1294;  5.8268] -0.15  0.8844  [0.0535;  14.0962]
+Tropifexor + Cenicriviroc 0.9490 [0.1616;  5.5716] -0.06  0.9537  [0.0683;  13.1829]
+Vitamin E                 3.4552 [1.4493;  8.2375]  2.80  0.0052  [0.6420;  18.5957]
+Vitamin E + Pioglitazone  7.1345 [1.9812; 25.6925]  3.01  0.0026  [0.8846;  57.5435]
+
+Quantifying heterogeneity / inconsistency:
+tau^2 = 0.2322; tau = 0.4819; I^2 = 61.4% [11.8%; 83.1%]
+
+Tests of heterogeneity (within designs) and inconsistency (between designs):
+                    Q d.f. p-value
+Total           15.54    6  0.0165
+Within designs   7.37    4  0.1175
+Between designs  8.16    2  0.0169

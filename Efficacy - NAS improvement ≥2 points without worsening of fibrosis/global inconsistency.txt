@@ -1,0 +1,27 @@
+Q statistics to assess homogeneity / consistency
+
+                    Q df p-value
+Total           15.54  6  0.0165
+Within designs   7.37  4  0.1175
+Between designs  8.16  2  0.0169
+
+Design-specific decomposition of within-designs Q statistic
+
+                   Design    Q df p-value
+ Placebo:Obeticholic acid 4.28  1  0.0387
+       Placebo:Aldafermin 2.93  1  0.0872
+     Placebo:Pioglitazone 0.15  1  0.6959
+       Placebo:Resmetirom 0.02  1  0.8964
+
+Between-designs Q statistic after detaching of single designs
+(influential designs have p-value markedly different from 0.0169)
+
+                Detached design    Q df p-value
+           Placebo:Pioglitazone 0.54  1  0.4628
+ Placebo:Pioglitazone:Vitamin E 0.00  0      --
+
+Q statistic to assess consistency under the assumption of
+a full design-by-treatment interaction random effects model
+
+                   Q df p-value tau.within tau2.within
+Between designs 5.39  2  0.0674     0.3259      0.1062
