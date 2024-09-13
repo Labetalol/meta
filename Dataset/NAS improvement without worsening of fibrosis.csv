@@ -1,0 +1,42 @@
+﻿study,treatment,responders,sampleSize,rob,ind
+Friedman SL; Ratziu V 2018,Cenicriviroc,23,145,1,1
+Friedman SL; Ratziu V 2018,Placebo,27,144,1,1
+Harrison SA 2021a,Aldafermin,31,50,1,1
+Harrison SA 2021a,Placebo,2,22,1,1
+Harrison SA 2022,Aldafermin,48,107,1,1
+Harrison SA 2022,Placebo,7,36,1,1
+Harrison SA 2021b,Efruxifermin,31,40,3,1
+Harrison SA 2021b,Placebo,1,2,3,1
+Loomba R 2023a,Pegbelfermin,26,148,2,1
+Loomba R 2023a,Placebo,5,49,2,1
+Loomba R 2023b,Pegozafermin,80,131,1,1
+Loomba R 2023b,Placebo,15,61,1,1
+Anstee QM 2023,Tropifexor,6,31,2,1
+Anstee QM 2023,Cenicriviroc,7,38,2,1
+Anstee QM 2023,Tropifexor + Cenicriviroc,16,77,2,1
+Neuschwander-Tetri BA 2015,Obeticholic acid,50,110,1,1
+Neuschwander-Tetri BA 2015,Placebo,23,109,1,1
+Younossi ZM; Ratziu V 2019,Obeticholic acid,206,620,2,1
+Younossi ZM; Ratziu V 2019,Placebo,76,311,2,1
+Ratziu V 2016,Elafibranor,47,182,2,1
+Ratziu V 2016,Placebo,21,92,2,1
+Siddiqui MS 2021,Saroglitazar,7,13,3,1
+Siddiqui MS 2021,Placebo,1,3,3,1
+Cusi K 2016,Pioglitazone,29,40,1,1
+Cusi K 2016,Placebo,9,42,1,1
+Harrison SA 2020,MSDC-0602K,86,252,2,1
+Harrison SA 2020,Placebo,22,74,2,1
+Harrison SA 2023b,PXL065,32,69,2,1
+Harrison SA 2023b,Placebo,7,23,2,1
+"Huang, Jee-Fu 2021",Pioglitazone,14,30,3,1
+"Huang, Jee-Fu 2021",Placebo,4,36,3,1
+Sanyal A 2010,Pioglitazone,27,80,1,1
+Sanyal A 2010,Vitamin E,36,84,1,1
+Sanyal A 2010,Placebo,16,83,1,1
+Harrison SA 2019,Resmetirom,41,73,1,1
+Harrison SA 2019,Placebo,11,34,1,1
+Harrison SA 2024,Resmetirom,275,637,1,1
+Harrison SA 2024,Placebo,67,318,1,1
+Bril F 2019,Vitamin E,11,36,1,1
+Bril F 2019,Vitamin E + Pioglitazone,20,37,1,1
+Bril F 2019,Placebo,6,32,1,1

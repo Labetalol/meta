@@ -1,0 +1,36 @@
+﻿study,treatment,responders,sampleSize,rob,ind
+Harrison SA 2018,Aldafermin,47,55,1,1
+Harrison SA 2018,Placebo,2,27,1,1
+Harrison SA 2021a,Aldafermin,34,52,1,1
+Harrison SA 2021a,Placebo,7,25,1,1
+Harrison SA 2022,Aldafermin,70,107,1,1
+Harrison SA 2022,Placebo,11,37,1,1
+Harrison SA 2021b,Efruxifermin,48,48,1,1
+Harrison SA 2021b,Placebo,2,20,1,1
+Harrison SA 2023a,Efruxifermin,63,73,2,1
+Harrison SA 2023a,Placebo,9,42,2,1
+Loomba R 2023a,Pegbelfermin,34,120,2,1
+Loomba R 2023a,Placebo,2,36,2,1
+Loomba R 2023b,Pegozafermin,84,131,2,1
+Loomba R 2023b,Placebo,16,61,2,1
+Loomba R 2023c,Pegozafermin,40,63,1,1
+Loomba R 2023c,Placebo,0,18,1,1
+Sanyal A 2019,Pegbelfermin,25,45,2,1
+Sanyal A 2019,Placebo,6,25,2,1
+Anstee QM 2023,Tropifexor,6,16,2,1
+Anstee QM 2023,Cenicriviroc,2,18,2,1
+Anstee QM 2023,Tropifexor + Cenicriviroc,9,39,2,1
+Harrison SA 2021c,MET409,25,30,1,1
+Harrison SA 2021c,Placebo,2,18,1,1
+Patel K 2020,Cilofexor,28,104,2,1
+Patel K 2020,Placebo,3,24,2,1
+Ratziu V 2023-B,Vonafexor,25,56,1,1
+Ratziu V 2023-B,Placebo,4,32,1,1
+Sanyal A 2023-C,Tropifexor,47,76,2,1
+Sanyal A 2023-C,Placebo,12,43,2,1
+Gawrieh S 2021,Saroglitazar,15,78,3,1
+Gawrieh S 2021,Placebo,2,28,3,1
+Harrison SA 2023b,PXL065,31,87,1,1
+Harrison SA 2023b,Placebo,5,30,1,1
+Harrison SA 2019,Resmetirom,50,74,1,1
+Harrison SA 2019,Placebo,10,34,1,1

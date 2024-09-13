@@ -1,0 +1,54 @@
+﻿study,treatment,responders,sampleSize,rob,ind
+Anstee QM 2024,Cenicriviroc,198,859,1,1
+Anstee QM 2024,Placebo,117,429,1,1
+Friedman SL; Ratziu V 2018,Cenicriviroc,12,145,1,1
+Friedman SL; Ratziu V 2018,Placebo,9,144,1,1
+Harrison SA 2021a,Aldafermin,12,50,1,1
+Harrison SA 2021a,Placebo,2,22,1,1
+Harrison SA 2022,Aldafermin,18,107,1,1
+Harrison SA 2022,Placebo,2,36,1,1
+Harrison SA 2021b,Efruxifermin,19,40,3,1
+Harrison SA 2021b,Placebo,1,2,3,1
+Harrison SA 2023a,Efruxifermin,44,85,1,1
+Harrison SA 2023a,Placebo,6,43,1,1
+Loomba R 2023a,Pegbelfermin,7,148,2,1
+Loomba R 2023a,Placebo,3,49,2,1
+Loomba R 2023b,Pegozafermin,33,131,1,1
+Loomba R 2023b,Placebo,1,61,1,1
+Anstee QM 2023,Tropifexor,8,31,2,1
+Anstee QM 2023,Cenicriviroc,6,38,2,1
+Anstee QM 2023,Tropifexor + Cenicriviroc,14,77,2,1
+Neuschwander-Tetri BA 2015,Obeticholic acid,22,102,1,1
+Neuschwander-Tetri BA 2015,Placebo,13,98,1,1
+Sanyal A 2023-C,Tropifexor,4,73,3,1
+Sanyal A 2023-C,Placebo,0,42,3,1
+Younossi ZM; Ratziu V 2019,Obeticholic acid,71,620,2,1
+Younossi ZM; Ratziu V 2019,Placebo,25,311,2,1
+Armstrong MJ 2016,Liraglutide,9,23,1,1
+Armstrong MJ 2016,Placebo,2,22,1,1
+Newsome PN 2021,Semaglutide,77,172,1,1
+Newsome PN 2021,Placebo,10,58,1,1
+Francque SM 2021,Lanifibranor,73,166,1,1
+Francque SM 2021,Placebo,18,81,1,1
+Ratziu V 2016,Elafibranor,29,182,2,1
+Ratziu V 2016,Placebo,11,92,2,1
+Siddiqui MS 2021,Saroglitazar,7,13,3,1
+Siddiqui MS 2021,Placebo,0,3,3,1
+Cusi K 2016,Pioglitazone,26,40,1,1
+Cusi K 2016,Placebo,10,42,1,1
+Harrison SA 2020,MSDC-0602K,67,252,2,1
+Harrison SA 2020,Placebo,15,74,2,1
+Harrison SA 2023b,PXL065,24,69,2,1
+Harrison SA 2023b,Placebo,7,23,2,1
+"Huang, Jee-Fu 2021",Pioglitazone,8,30,3,1
+"Huang, Jee-Fu 2021",Placebo,4,36,3,1
+Sanyal A 2010,Pioglitazone,38,80,1,1
+Sanyal A 2010,Vitamin E,30,84,1,1
+Sanyal A 2010,Placebo,17,83,1,1
+Harrison SA 2019,Resmetirom,18,73,1,1
+Harrison SA 2019,Placebo,5,31,1,1
+Harrison SA 2024,Resmetirom,178,637,1,1
+Harrison SA 2024,Placebo,31,318,1,1
+Bril F 2019,Vitamin E,12,36,1,1
+Bril F 2019,Vitamin E + Pioglitazone,16,37,1,1
+Bril F 2019,Placebo,4,32,1,1
